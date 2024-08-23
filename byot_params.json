@@ -1,11 +1,10 @@
 {
-  "AccountId": "l462cc76228247b38f79c439d67d20ec",
-  "Vault_URL": "https://ebfc9bee4242.vault.skyflowapis.com",
-  "WorkspaceID": "df37157637ed48e6865ddfea7813cf36",
+  "AccountId": "Your AccountID here",
+  "Vault_URL": "Your vaultId here",
+  "WorkspaceID": "Your WorkspaceID here",
   "Vault_Name": "byotVault",
   "Vault_Table_Name": "person",
   "Management_URL": "https://manage.skyflowapis.com",
-  "User_Email": "priyanta.dharmasena@skyflow.com",
+  "User_Email": "<Your skyflow studio username>@skyflow.com",
   "Records_Batch_Size": 25,
-  "Common_Files_Directory": "/Users/priyantadharmasena/Documents/Python/commonFiles"
 }
