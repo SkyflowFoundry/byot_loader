@@ -21,6 +21,8 @@ Edit this file and change **ALL** the parameter values to the ones associated wi
 
 Your CSV file needs to contain the name-value pairs for: clear text data and the token to be migrated.
 So this can be in the format:  text, token  or,   text1, token 1, text2, token2,text3, token3, etc
+Note:
+Text column can have any name, the corresponding token column must be of the format: <token_column>_token in the CSV file.
 
 All done!  You are ready to run the loader.
 The laoder will take any "Strcutured Data" CSV file you provide.  A few samples are provided in the distribution and have been used to validate correct operation.
