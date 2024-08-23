@@ -8,7 +8,7 @@ This intends to show the power of the Skyflow API first approach and platform fo
 Before running the tool, you need to perform pre-setup tasks
 You need to have a Skyflow Try environment account (login)
 
-Login to your Skyflow Studio (assuminng you are a vault owener or administrator)
+Login to your Skyflow Studio (assuminng you are a vault owner or administrator)
 
 Create an Account level "**Service Account**"
 The service account MUST have the following Assignments & Roles:
